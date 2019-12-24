@@ -1,6 +1,5 @@
 # hello-world
 
-Hi Humans!
+This is the first repository in my GitHub account. 
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Something, such as pictures, which will be placed in this repo.
